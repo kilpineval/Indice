@@ -1,0 +1,9 @@
+#include<studio.h>
+#include<conio.h>
+
+ptr * FILE
+char archivo[67] = "ingretex.txt"
+char leer[54]
+int i
+
+if(ptr=fopen(
