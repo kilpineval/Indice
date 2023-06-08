@@ -6,4 +6,14 @@ char archivo[67] = "ingretex.txt"
 char leer[54]
 int i
 
-if(ptr=fopen(
+if(ptr=fopen(archivo[67], "w")){
+  printf("abrir el archivo de tipo '\%s\' /n",archivo);
+  
+}else{
+  printf("el archivo no se abrio de manera correcta", /n);
+}
+do{
+  gets()
+} while{
+} 
+
